@@ -1,0 +1,29 @@
+1. În fiecare cuvânt din textul dat simbolul de pe poziţia indicată a cuvântului de înlocuit cu un
+simbol dat. Dacă poziţia indicată este mai mare ca lungimea cuvântului, corecţia nu se face.
+
+2. Fiecare litera din textul dat, sa fie înlocuită cu poziţia numerică din alfabet. Textul sa se scrie
+într-o singură linie cu doua spatii intre litere. In linia următoarea sub fiecare literă sa se indice
+poziţia. 
+
+3. În textul dat, cuvintele cu lungimea indicată, sa se înlocuiască cu un subşir specificat, lungimea
+căruia poate să nu coincidă cu lungimea cuvântului.
+
+4. În textul dat după fiecare caracter indicat, să se introducă un subşir specificat.
+
+5. După fiecare cuvânt din textul dat, care se termina cu un subşir specificat, sa se adauge cuvântul
+indicat.
+
+6. În dependenţă de valoarea introdusă (0 sau 1), în textul dat de extras caracterul indicat, ori de
+câte ori apare, sau sa fie introdus după simbolul cu indicele specificat.
+
+7. Extrageţi din textul dat toate cuvintele cu lungimea specificată, care încep cu o consoană.
+
+8. Afişaţi de câte ori sunt repetate cuvintele care apar în textul dat.
+
+9. Afişaţi, care litere, vocalele sau consoanele, sunt mai multe in fiecare propoziţie din textul dat.
+
+10. Din textul dat găsiţi şi extrageţi numărul de cuvinte care încep şi se finalizează cu vocale.
+
+11. De afişat fără repetare cuvântul din textul dat, care încep si se termina cu aceea literă.
+
+12. De extras din textul dat primul subşir cu lungime maximă, care nu conţine litere.
