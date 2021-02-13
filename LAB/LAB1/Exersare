@@ -1,0 +1,17 @@
+1.	Parametrul cale memorează un șir de caractere format din litere mici și semnul \ și reprezintă o succesiune de foldere incluse unul în altul. 
+Să se scrie unprogram java ce va afișa numărul de foldere conținute în cale.
+
+2.	Parametrul sir memorează un șir de caractere format din Cuvinte ce încep cu literă majuscule și Cuvinte ce încep cu litere minuscule. 
+Să se scrie un program java ce va afișa doar abrevierile formate pentru stringul dat. 
+Exemplu: pentru stringul – Universitatea Tehnica a Moldovel, se va afisa UTM.
+
+3.	Șirul s conține cuvinte formate din litere mici, numere formate cu cifre. 
+Să se memoreze cuvintele în vectorul cuv și numerele în num. 
+Numărul de cuvinte va fi reținut în n, iar numărul de numere în m. Să se afișaze numărul de cuvinte din sir, numărul de numere, câte cifre conține acest număr și suma cifrelor lui.
+
+4.	Avem un șir s format din cuvinte separate prin câte un spațiu. 
+Cuvintele sunt formate doar din litere mici. Să se scrie un program java ce va returna cuvintele în ordine inversă, 
+separate tot prin câte un spațiu și numărul de cuvinte palindrom din acest sir.
+
+5.	Avem un șir de caractere s, un caracter ch și un număr întreg k. 
+Presupunând că ch apare de n ori în șir, atunci, dacă 1 ≤ k ≤ n, se va afișa în consolă poziția unde caracterul ch apare a k-a oară. În caz contrar, se va afișa -1.
